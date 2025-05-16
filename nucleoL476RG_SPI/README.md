@@ -5,6 +5,18 @@ ILI9225 SPI library from: https://github.com/BasicCode/ILI9225
 
 
 
+# Contents
+
+This sample uses a LCD of the type ILI9225 which is controlled via SPI 
+on a STM32 Nucleo-L476RG eval board.
+
+A small letter 'a' is traveling accross the screen bouncing at the edges
+DVD-Screensaver style once the project is running!
+
+The ILI9925 command library is not my work but the work of https://github.com/BasicCode/ILI9225
+
+
+
 # Links
 
 https://github.com/BasicCode/ILI9225/blob/master/STM32/main.c
