@@ -150,6 +150,8 @@ int main(void)
 
 	  //fill_rectangle(x, 0, 100+x, 100, COLOR_BLUE);
 
+	  // fill pixels with background color where the old 
+	  // character has been to erase stale pixels
 	  fill_rectangle(x-2, y-2, x+12, y+12, COLOR_BLACK);
 
 	  x += delta_x;

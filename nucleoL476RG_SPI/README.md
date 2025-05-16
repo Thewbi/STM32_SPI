@@ -66,3 +66,11 @@ Optionally under the "User Label" field, you can enter CS.
 PIN_0 -- GPIOB == CMD pin (Command/Data pin)
 In the .ioc file, set the pin PB0 to type GPIO_output.
 Optionally under the "User Label" field, you can enter CMD.
+
+
+# Wiring
+
+![Wiring_1](doc/1747392115523.jpg "Wiring_1")
+![Wiring_2](doc/1747392115549.jpg "Wiring_2")
+![Wiring_3](doc/1747392115574.jpg "Wiring_3")
+![Wiring_4](doc/1747392241856.jpg "Wiring_4")
